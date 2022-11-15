@@ -1,0 +1,12 @@
+{
+  "name": "xao",
+  "version": "1.0.0",
+  "description": "Discord Utility Bot - The Iron Nation Project",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cell, RSN Celethana",
+  "license": "ISC"
+}
